@@ -1,9 +1,10 @@
 # counter
 atmega328p decimal counter
 
-
 Raspberry Pi as a programmer
 OS(Raspbian)
+
+![schema](https://github.com/leonid133/counter/blob/main/Schematic_counter_2021-02-12_15-04-05.png?raw=true)
 
 install dependency
 ```
