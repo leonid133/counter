@@ -27,7 +27,7 @@ MISO = PB4 = 18
 
 unexport gpio if busy
 ```
-echo 17 > /sys/class/gpio/unexport
+echo 22 > /sys/class/gpio/unexport
 ```
 
 upload to mcu
